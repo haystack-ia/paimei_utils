@@ -1,0 +1,5 @@
+#ignore .pycs
+*.pyc
+
+#emacs tempfiles
+*~
