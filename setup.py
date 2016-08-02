@@ -8,4 +8,5 @@ setup(
     description = "a subset of PaiMei utils that are useful outside of PaiMei",
     license="GPL",
     packages=["paimei_utils"],
+    install_requires=['pydbg']
 )
